@@ -171,5 +171,79 @@
             ],
             "id": 4
         }
+    ],
+    "meetings": [
+        {
+            "name": "John",
+            "lastName": "Doe",
+            "email": "jd@comp.com",
+            "date": "2022-02-10",
+            "time": "11:15",
+            "id": 8
+        },
+        {
+            "name": "Peter",
+            "lastName": "Graham",
+            "email": "graham@comp.com",
+            "date": "2022-02-20",
+            "time": "08:00",
+            "id": 9
+        },
+        {
+            "name": "John",
+            "lastName": "Cash",
+            "email": "jcash@comp.com",
+            "date": "2022-03-30",
+            "time": "10:45",
+            "id": 10
+        },
+        {
+            "name": "James",
+            "lastName": "Rodriguez",
+            "email": "rodriguez@comp.com",
+            "date": "2022-02-20",
+            "time": "15:00",
+            "id": 11
+        },
+        {
+            "name": "Tommy",
+            "lastName": "Vegas",
+            "email": "vegas@comp.com",
+            "date": "2022-03-06",
+            "time": "10:00",
+            "id": 12
+        },
+        {
+            "name": "Petr",
+            "lastName": "Vegis",
+            "email": "vegis@comp.com",
+            "date": "2022-02-12",
+            "time": "12:00",
+            "id": 13
+        },
+        {
+            "name": "Joanna",
+            "lastName": "Grahom",
+            "email": "grahom@comp.com",
+            "date": "2022-02-10",
+            "time": "08:00",
+            "id": 14
+        },
+        {
+            "name": "Paris",
+            "lastName": "Fury",
+            "email": "fury@comp.com",
+            "date": "2022-02-10",
+            "time": "07:00",
+            "id": 15
+        },
+        {
+            "name": "Johnny",
+            "lastName": "Doent",
+            "email": "doent@comp.com",
+            "date": "2022-02-10",
+            "time": "09:30",
+            "id": 16
+        }
     ]
 }
