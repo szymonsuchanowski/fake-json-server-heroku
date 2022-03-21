@@ -1,0 +1,23 @@
+{
+    "name": "fake-server",
+    "version": "1.0.0",
+    "description": "fake server with fake database",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/szymonsuchanowski/fake-server-trip-booking.git"
+    },
+    "author": "Szymon Suchanowski",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/szymonsuchanowski/fake-server-trip-booking/issues"
+    },
+    "homepage": "https://github.com/szymonsuchanowski/fake-server-trip-booking#readme",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
