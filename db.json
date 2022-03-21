@@ -41,34 +41,6 @@
             "last_name": "Braybrookes",
             "email": "dbraybrookes5@gov.uk",
             "gender": "Female"
-        },
-        {
-            "id": 7,
-            "first_name": "Sarena",
-            "last_name": "Frape",
-            "email": "sfrape6@alexa.com",
-            "gender": "Female"
-        },
-        {
-            "id": 8,
-            "first_name": "Malva",
-            "last_name": "Pierse",
-            "email": "mpierse7@usda.gov",
-            "gender": "Female"
-        },
-        {
-            "id": 9,
-            "first_name": "Rania",
-            "last_name": "Dablin",
-            "email": "rdablin8@state.gov",
-            "gender": "Female"
-        },
-        {
-            "id": 10,
-            "first_name": "Ingrim",
-            "last_name": "Offen",
-            "email": "ioffen9@slideshare.net",
-            "gender": "Male"
         }
     ]
 }
